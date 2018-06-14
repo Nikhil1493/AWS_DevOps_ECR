@@ -5,7 +5,7 @@ hello-world
 
 
 Sample docker image to test docker on aws ecr
-
+hello docker
 
 
 ## Running locally
